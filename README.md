@@ -1,8 +1,10 @@
 # glitch-art-collage
 
 TITLE: Image Collage: Deterioration of Family.
+
 THEME: Glitch art representing the deterioration of family over time.
 With different levels of clarity representing time and memory.
+
 Keywords: Family, Decay, Loss, Grief, Isolation, Nostalgia
  
 DOCUMENTATION:
