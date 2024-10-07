@@ -1,13 +1,16 @@
-# glitch-art-collage
 
-TITLE: Image Collage: Deterioration of Family.
+# Image Collage Name: Deterioration of Family.
 
-THEME: Glitch art representing the deterioration of family over time.
+## Themes:
+Glitch art representing the deterioration of family over time.
 With different levels of clarity representing time and memory.
+
+
+## [View the collage](https://limilimil.github.io/glitch-art-collage/)
 
 Keywords: Family, Decay, Loss, Grief, Isolation, Nostalgia
  
-DOCUMENTATION:
+Documentation:
 1. Compositing using blendMode(), pixel manipulation and image() function
 2. Masking by applying alpha values from one image to another
 3. Scaling using the image() function
@@ -25,9 +28,6 @@ This example uses a few images:
 5. A PNG image of a crack in the wall used for masking. It's background was removed and made transparent.
 6. A JPG picture of a hand holding a frame. This was masked by the crack image.
 
-Image function reference: https://p5js.org/reference/#group-Image
-Mask function reference: https://p5js.org/reference/#/p5.Image/mask
 
 -----------------------------------------
-by Liam Cannon 2024
------------------------------------------
+by Liam Cannon, 2024
